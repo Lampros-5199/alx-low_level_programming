@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry
+ * main - print numbers
  *
  * Return: Always 0 (Success)
  */
@@ -14,7 +14,7 @@ int main(void)
 		if (num == 9)
 			continue;
 
-		putchar('.');
+		putchar(',');
 		putchar(' ');
 	}
 	putchar('\n');
