@@ -1,6 +1,6 @@
 #include <stdio.hi>
 /**
- * main - print num.
+ * main - print all possible combinations
  *
  * Return: Always 0 (Success)
  */
